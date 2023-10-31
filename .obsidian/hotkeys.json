@@ -1,0 +1,34 @@
+{
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "Enhanced editing:biaoti1-text": [],
+  "Enhanced editing:biaoti2-text": [],
+  "Enhanced editing:biaoti3-text": [],
+  "Enhanced editing:biaoti4-text": [],
+  "Enhanced editing:biaoti5-text": [],
+  "Enhanced editing:biaoti6-text": [],
+  "obsidian-image-auto-upload-plugin:Download all images": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

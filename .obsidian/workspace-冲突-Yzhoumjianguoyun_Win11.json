@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "11d5eaef12a7cd65",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e436e609cc973e",
+        "type": "tabs",
+        "dimension": 68.33333333333333,
+        "children": [
+          {
+            "id": "72dddb7cf8e0ad76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发工作/流量复制.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d7ca2f5b1e382bc",
+        "type": "split",
+        "dimension": 31.666666666666664,
+        "children": [
+          {
+            "id": "e70adc731859bbc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5d90dc20664c58c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "开发工作/流量复制.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9bf83479cd9457fb",
+            "type": "split",
+            "children": [
+              {
+                "id": "5b6883c41e98ca1f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0e6884977c4a5e1e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "开发工作/流量复制.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "e7faa4a07cb530a0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "82f8a63a3829320c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "开发工作/流量复制.md",
+                        "linksCollapsed": true,
+                        "unlinkedCollapsed": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31e04e341d1a7863",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20a1ee32d28fd61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d685b8e99dd16987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba95cda9c121d15a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#待处理",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07be2a06febd9356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "cce5a13d68bddac1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b9578a782eceebe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb55bdc5bd8b7211",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "开发工作/流量复制.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.000000000000003,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b9da95fca1342e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "768f28fa5b7e98d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e669c1a5b79b3589",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e62c6fbb9666000",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50f1ddf179775621",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dfbfba370e0bf78",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "72dddb7cf8e0ad76",
+  "lastOpenFiles": [
+    "cs/中间件/数据库/mysql/mysql锁学习笔记.md",
+    "attachment/u4rn8.webp",
+    "attachment/203dd.webp",
+    "attachment/7jjdh.webp",
+    "attachment/57noc.webp",
+    "attachment/ptgzp.webp",
+    "attachment/zhntq.webp",
+    "attachment/p8mgo.webp",
+    "attachment/qi0um.webp",
+    "cs/cloud native/k8s/Secret.md.nssyncsc",
+    "cs/cloud native/k8s/给应用注入数据.md.nssyncsc",
+    "cs/cloud native/k8s/000_坚果云闪电下载介绍.html.nssyncsc",
+    "cs/cloud native/k8s",
+    "cs/cloud native/000_坚果云闪电下载介绍.html.nssyncsc",
+    "cs/cloud native",
+    "attachment/ptgzp.webp.nssyncsc",
+    "attachment/zhntq.webp.nssyncsc",
+    "attachment/p8mgo.webp.nssyncsc",
+    "attachment/qi0um.webp.nssyncsc",
+    "cs/程序语言/Golang/golang time 时间处理.md",
+    "Golang.md",
+    "提能/obsidian/待处理.md",
+    "开发工作/流量复制.md",
+    "开发工作/cpaas tekton-sonarqube-bitbucket集成.md",
+    "开发工作/平台硬件资源检查.md",
+    "cs/中间件/cpaas tekton-sonarqube-bitbucket集成.md",
+    "cs/时间格式-标准化.md",
+    "提能/obsidian/内容聚合&&关系图谱.md",
+    "提能/obsidian/obsidian start.md",
+    "提能/obsidian/可视化.md",
+    "cs/中间件/数据库/mysql/mysql 锁.md",
+    "Excalidraw/Drawing 2023-10-25 11.28.25.excalidraw.md",
+    "提能/net outside/clash.md",
+    "cs/中间件/数据库/postgreSql/postgresql.md",
+    "提能/obsidian/1.md",
+    "README.md",
+    "中间件.md",
+    "Untitled.md",
+    "2023-10-24.md",
+    "数据库/中间件.md"
+  ]
+}

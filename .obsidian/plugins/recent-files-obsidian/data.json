@@ -1,0 +1,111 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Secret",
+      "path": "cs/cloud native/k8s/Secret.md"
+    },
+    {
+      "basename": "给应用注入数据",
+      "path": "cs/cloud native/k8s/给应用注入数据.md"
+    },
+    {
+      "basename": "XCopy",
+      "path": "cs/网络/XCopy.md"
+    },
+    {
+      "basename": "tcpdump",
+      "path": "cs/网络/tcpdump.md"
+    },
+    {
+      "basename": "时间格式-标准化",
+      "path": "cs/时间格式-标准化.md"
+    },
+    {
+      "basename": "网络 网络工具",
+      "path": "cs/网络/网络 网络工具.md"
+    },
+    {
+      "basename": "流量复制",
+      "path": "开发工作/流量复制.md"
+    },
+    {
+      "basename": "clash",
+      "path": "提能/net outside/clash.md"
+    },
+    {
+      "basename": "obsidian start",
+      "path": "提能/obsidian/obsidian start.md"
+    },
+    {
+      "basename": "p8mgo",
+      "path": "attachment/p8mgo.webp"
+    },
+    {
+      "basename": "ptgzp",
+      "path": "attachment/ptgzp.webp"
+    },
+    {
+      "basename": "203dd",
+      "path": "attachment/203dd.webp"
+    },
+    {
+      "basename": "57noc",
+      "path": "attachment/57noc.webp"
+    },
+    {
+      "basename": "7jjdh",
+      "path": "attachment/7jjdh.webp"
+    },
+    {
+      "basename": "mysql锁学习笔记",
+      "path": "cs/中间件/数据库/mysql/mysql锁学习笔记.md"
+    },
+    {
+      "basename": "u4rn8",
+      "path": "attachment/u4rn8.webp"
+    },
+    {
+      "basename": "zhntq",
+      "path": "attachment/zhntq.webp"
+    },
+    {
+      "basename": "mysql 锁",
+      "path": "cs/中间件/数据库/mysql/mysql 锁.md"
+    },
+    {
+      "basename": "golang time 时间处理",
+      "path": "cs/程序语言/Golang/golang time 时间处理.md"
+    },
+    {
+      "basename": "平台硬件资源检查",
+      "path": "开发工作/平台硬件资源检查.md"
+    },
+    {
+      "basename": "内容聚合&&关系图谱",
+      "path": "提能/obsidian/内容聚合&&关系图谱.md"
+    },
+    {
+      "basename": "Golang",
+      "path": "Golang.md"
+    },
+    {
+      "basename": "待处理",
+      "path": "提能/obsidian/待处理.md"
+    },
+    {
+      "basename": "cpaas tekton-sonarqube-bitbucket集成",
+      "path": "开发工作/cpaas tekton-sonarqube-bitbucket集成.md"
+    },
+    {
+      "basename": "可视化",
+      "path": "提能/obsidian/可视化.md"
+    },
+    {
+      "basename": "postgresql",
+      "path": "cs/中间件/数据库/postgreSql/postgresql.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
